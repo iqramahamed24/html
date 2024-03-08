@@ -1,0 +1,73 @@
+<html lang="eng">
+    <head>
+    </head>
+    <body>
+        <div> 
+
+            <p>About me</p>
+            <p>random facts</p>
+            
+        </div>
+          <h1></h1>
+        <div>
+            <ol>
+            <li> Software Development is a passion.</li>
+            <li>Make a portofolio</li>
+            </ol>
+            <ul>
+                
+
+
+
+
+            </ul>
+        </div>
+        
+        <div>
+        
+            <img src="Mickey-Mouse.jpg" alt="">
+            <img src="./Mickey-Mouse.jpg" alt="">
+        </div>
+        <table border="1px"rr>
+            <tr>
+                <th>Name</th>
+                <th>Phone Number</th>
+                <th>Date of Birth</th>
+            </tr>
+            <tr>
+                <td>Daniel</td>
+                <td>718-555-1212</td>
+                <td>18/09/1989</td>
+
+
+
+            </tr>
+            <tr>
+                <td>Rachel</td>
+                <td>789-990-756</td>
+                <td>12/04/1999</td>
+            </tr>
+            <tr>
+                <td>Louis</td>
+                <td>678-009-879</td>
+                <td>13/07/1997</td>
+
+
+            </tr>
+        </table>
+<br>
+
+
+
+<form action="">
+<label for="first name"= First name;
+></label>
+<input type="text">
+<label for="Lname"=last name></label>
+<button>Submit</button>
+<input type="button" value="Submit">
+
+
+
+    </body>
+    </html>
